@@ -118,6 +118,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ZukaBri3k/ZukaBri3k/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/ZukaBri3k/ZukaBri3k/blob/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
